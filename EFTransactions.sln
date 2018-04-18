@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFTransactions", "EFTransactions\EFTransactions.csproj", "{90D977AF-59FC-4AF2-A1EF-3526F4452B0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90D977AF-59FC-4AF2-A1EF-3526F4452B0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90D977AF-59FC-4AF2-A1EF-3526F4452B0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90D977AF-59FC-4AF2-A1EF-3526F4452B0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90D977AF-59FC-4AF2-A1EF-3526F4452B0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FBF9ED8-3042-4618-91A6-C969C1B9EBDF}
+	EndGlobalSection
+EndGlobal
