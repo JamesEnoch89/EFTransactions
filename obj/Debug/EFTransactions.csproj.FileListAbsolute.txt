@@ -1,0 +1,16 @@
+C:\Users\jenoch\source\repos\EFTransactions\EFTransactions\EFTransactions\obj\Debug\EFTransactions.csprojResolveAssemblyReference.cache
+C:\Users\jenoch\source\repos\EFTransactions\EFTransactions\EFTransactions\obj\Debug\EFTransactions.csproj.CoreCompileInputs.cache
+C:\Users\jenoch\source\repos\EFTransactions\EFTransactions\EFTransactions\bin\Debug\EFTransactions.exe.config
+C:\Users\jenoch\source\repos\EFTransactions\EFTransactions\EFTransactions\bin\Debug\EFTransactions.exe
+C:\Users\jenoch\source\repos\EFTransactions\EFTransactions\EFTransactions\bin\Debug\EFTransactions.pdb
+C:\Users\jenoch\source\repos\EFTransactions\EFTransactions\EFTransactions\bin\Debug\EntityFramework.dll
+C:\Users\jenoch\source\repos\EFTransactions\EFTransactions\EFTransactions\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jenoch\source\repos\EFTransactions\EFTransactions\EFTransactions\bin\Debug\EntityFramework.xml
+C:\Users\jenoch\source\repos\EFTransactions\EFTransactions\EFTransactions\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jenoch\source\repos\EFTransactions\EFTransactions\EFTransactions\obj\Debug\EFTransactions.csproj.CopyComplete
+C:\Users\jenoch\source\repos\EFTransactions\EFTransactions\EFTransactions\obj\Debug\EFTransactions.exe
+C:\Users\jenoch\source\repos\EFTransactions\EFTransactions\EFTransactions\obj\Debug\EFTransactions.pdb
+C:\Users\jenoch\source\repos\EFTransactions\EFTransactions\EFTransactions\obj\Debug\EFTransactions.Migrations.TodaysTransactionsQuery.resources
+C:\Users\jenoch\source\repos\EFTransactions\EFTransactions\EFTransactions\obj\Debug\EFTransactions.csproj.GenerateResource.cache
+C:\Users\jenoch\source\repos\EFTransactions\EFTransactions\EFTransactions\obj\Debug\EFTransactions.Migrations.MostRecent.resources
+C:\Users\jenoch\source\repos\EFTransactions\EFTransactions\EFTransactions\obj\Debug\EFTransactions.Migrations.CountGivenDay.resources
